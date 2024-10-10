@@ -1,6 +1,6 @@
 # WeatherApp
 
-A Python-based weather application that displays the current weather for any given city. The application allows the user to enter a city name, fetches real-time weather data using the OpenWeatherMap API, displays the temperature, a brief weather description, and an emoji to visually reprensent the weather.
+A Python-based weather application that displays the current weather for any given city. The application allows the user to enter a city name, fetches real-time weather data using the OpenWeatherMap API, displays the temperature, a brief weather description, and an emoji to visually represent the weather.
 
 ## Features:
 • City Input: Enter the name of the city of which you want to check the weather <br />
