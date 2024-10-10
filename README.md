@@ -18,4 +18,4 @@ A Python-based weather application that displays the current weather for any giv
 ### Future Improvements:
 • Allow user to choose from celsius or fahrenheit <br /> 
 • Include more detailed weather information such as humidity, wind speed etc <br />
-• Allow user to enter country in case of duplicate city names (e.g. Birmingham UK & Birmingham Alabama USA, and Sydney, Australia & Sydney, Nova Scotia, Canada) <br />
+• Allow user to enter country in case of duplicate city names (e.g. Birmingham UK & Birmingham, Alabama, USA, and Sydney, Australia & Sydney, Nova Scotia, Canada) <br />
